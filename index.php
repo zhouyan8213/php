@@ -1,4 +1,4 @@
 <?php
-echo "dfgfgdfgfdgfg";
+echo "fangjia";
 phpinfo();
 ?>
